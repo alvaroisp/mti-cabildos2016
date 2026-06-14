@@ -72,7 +72,7 @@ El script `clasificador-texto.py` implementa la clasificación automática con l
 - **Recuperación:** capacidad de reanudar el proceso ante interrupciones
 - **Output:** archivo JSON único con id_categoria, categoria y fundamento_aporta por registro
 
-El proceso clasificó el 99,36% de las 36.322 respuestas "otros" de las instancias local, provincial y regional, con un costo total de USD 18 y 9,9 horas de procesamiento.
+El proceso clasificó el 99,36% de las 36.322 respuestas "otros" de las instancias local, provincial y regional, con un costo total de 9,9 horas de procesamiento.
 
 ---
 

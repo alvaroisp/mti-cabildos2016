@@ -58,4 +58,4 @@ Consejo Ciudadano de Observadores. Benito Baranda, Jean Beausejour, Roberto Fant
 
 ## Nota sobre disponibilidad
 
-Todos los documentos listados fueron elaborados por organismos oficiales del proceso constituyente y están alojados en servidores de la Biblioteca del Congreso Nacional de Chile (BCN). Los sitios web originales donde fueron publicados ya no se encuentran disponibles. La BCN actúa como custodio institucional de estos documentos.
+Todos los documentos listados fueron elaborados por organismos oficiales del proceso constituyente y están alojados en servidores de la Biblioteca del Congreso Nacional de Chile (BCN). Los sitios web originales donde fueron publicados ya no se encuentran disponibles. 

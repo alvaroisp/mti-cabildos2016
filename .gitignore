@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyCharm
+.idea/
+
+# Logs generados por el script
+log_respuestas_modelo.txt
+log_errores_modelo.txt
+progreso_temporal.json
+
+# Variables de entorno
+.env

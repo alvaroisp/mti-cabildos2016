@@ -1,0 +1,330 @@
+[
+  {
+    "id categoria": 348,
+    "Categoría": "Agencia de control de calidad de políticas públicas"
+  },
+  {
+    "id categoria": 349,
+    "Categoría": "Agencia de protección de datos personales"
+  },
+  {
+    "id categoria": 351,
+    "Categoría": "Asamblea constituyente"
+  },
+  {
+    "id categoria": 353,
+    "Categoría": "Banco Central"
+  },
+  {
+    "id categoria": 355,
+    "Categoría": "Bomberos"
+  },
+  {
+    "id categoria": 356,
+    "Categoría": "Cámara de diputados"
+  },
+  {
+    "id categoria": 357,
+    "Categoría": "Cámara senadores"
+  },
+  {
+    "id categoria": 97,
+    "Categoría": "Cambio o Reforma Constitucional"
+  },
+  {
+    "id categoria": 490,
+    "Categoría": "Características del Estado"
+  },
+  {
+    "id categoria": 360,
+    "Categoría": "Centros culturales"
+  },
+  {
+    "id categoria": 361,
+    "Categoría": "Centros de estudiantes"
+  },
+  {
+    "id categoria": 363,
+    "Categoría": "Colegios de profesionales"
+  },
+  {
+    "id categoria": 98,
+    "Categoría": "Congreso o parlamento (estructura y funciones)"
+  },
+  {
+    "id categoria": 367,
+    "Categoría": "Congreso: bicameral"
+  },
+  {
+    "id categoria": 368,
+    "Categoría": "Congreso: limitar reelección"
+  },
+  {
+    "id categoria": 370,
+    "Categoría": "Consejo de cultura y artes"
+  },
+  {
+    "id categoria": 372,
+    "Categoría": "Consejo de desarrollo científico"
+  },
+  {
+    "id categoria": 373,
+    "Categoría": "Consejo de desarrollo económico"
+  },
+  {
+    "id categoria": 374,
+    "Categoría": "Consejo de desarrollo social"
+  },
+  {
+    "id categoria": 376,
+    "Categoría": "Consejo de mujeres y hombres sabios"
+  },
+  {
+    "id categoria": 378,
+    "Categoría": "Consejo para el desarrollo económico"
+  },
+  {
+    "id categoria": 380,
+    "Categoría": "Conservador de bienes raíces"
+  },
+  {
+    "id categoria": 99,
+    "Categoría": "Contraloría General/Tribunales de Cuentas"
+  },
+  {
+    "id categoria": 477,
+    "Categoría": "De desarrollo y fomento productivo"
+  },
+  {
+    "id categoria": 478,
+    "Categoría": "De educación"
+  },
+  {
+    "id categoria": 479,
+    "Categoría": "De la cultura"
+  },
+  {
+    "id categoria": 480,
+    "Categoría": "De la mujer y equidad de género"
+  },
+  {
+    "id categoria": 481,
+    "Categoría": "De la salud"
+  },
+  {
+    "id categoria": 482,
+    "Categoría": "De la sociedad civil"
+  },
+  {
+    "id categoria": 483,
+    "Categoría": "De orden y seguridad"
+  },
+  {
+    "id categoria": 536,
+    "Categoría": "De protección a la familia"
+  },
+  {
+    "id categoria": 535,
+    "Categoría": "De protección a la transparencia y acceso a la información"
+  },
+  {
+    "id categoria": 389,
+    "Categoría": "De protección al adulto mayor"
+  },
+  {
+    "id categoria": 386,
+    "Categoría": "De protección de los derechos de niñas, niños y adolescentes"
+  },
+  {
+    "id categoria": 538,
+    "Categoría": "De protección de los Derechos Humanos"
+  },
+  {
+    "id categoria": 486,
+    "Categoría": "De protección social"
+  },
+  {
+    "id categoria": 534,
+    "Categoría": "De representación de pueblos originarios"
+  },
+  {
+    "id categoria": 384,
+    "Categoría": "Defensor de la equidad de género"
+  },
+  {
+    "id categoria": 388,
+    "Categoría": "Defensor de personas con discapacidad"
+  },
+  {
+    "id categoria": 100,
+    "Categoría": "Defensor del Pueblo/Ciudadano"
+  },
+  {
+    "id categoria": 392,
+    "Categoría": "Defensoría penal pública"
+  },
+  {
+    "id categoria": 101,
+    "Categoría": "División territorial"
+  },
+  {
+    "id categoria": 394,
+    "Categoría": "Ente regulador medios de comunicación"
+  },
+  {
+    "id categoria": 395,
+    "Categoría": "Ente regulador público-privado"
+  },
+  {
+    "id categoria": 102,
+    "Categoría": "Estado de Excepción"
+  },
+  {
+    "id categoria": 396,
+    "Categoría": "Estado emprendedor en lo económico"
+  },
+  {
+    "id categoria": 399,
+    "Categoría": "Estado multicultural"
+  },
+  {
+    "id categoria": 400,
+    "Categoría": "Estado social"
+  },
+  {
+    "id categoria": 491,
+    "Categoría": "Fiscalizadoras"
+  },
+  {
+    "id categoria": 537,
+    "Categoría": "Fondos de pensiones (administración, supervisión)"
+  },
+  {
+    "id categoria": 103,
+    "Categoría": "Forma de Estado: federalismo/autonomías regionales"
+  },
+  {
+    "id categoria": 104,
+    "Categoría": "Fuerzas Armadas"
+  },
+  {
+    "id categoria": 105,
+    "Categoría": "Gobierno local/municipal"
+  },
+  {
+    "id categoria": 106,
+    "Categoría": "Gobierno nacional(estructura y funciones)"
+  },
+  {
+    "id categoria": 107,
+    "Categoría": "Gobierno provincial"
+  },
+  {
+    "id categoria": 108,
+    "Categoría": "Gobierno regional"
+  },
+  {
+    "id categoria": 109,
+    "Categoría": "Jefatura de gobierno"
+  },
+  {
+    "id categoria": 110,
+    "Categoría": "Juicio político /acusación constitucional"
+  },
+  {
+    "id categoria": 111,
+    "Categoría": "Justicia constitucional"
+  },
+  {
+    "id categoria": 112,
+    "Categoría": "Justicia electoral"
+  },
+  {
+    "id categoria": 493,
+    "Categoría": "Medioambientales y de recursos naturales"
+  },
+  {
+    "id categoria": 423,
+    "Categoría": "Ministerio de discapacidad"
+  },
+  {
+    "id categoria": 424,
+    "Categoría": "Ministerio de la cultura"
+  },
+  {
+    "id categoria": 113,
+    "Categoría": "Ministerio Público/ Defensoría Pública"
+  },
+  {
+    "id categoria": 429,
+    "Categoría": "Organismos públicos autónomos"
+  },
+  {
+    "id categoria": 430,
+    "Categoría": "Organizaciones ciudadanas"
+  },
+  {
+    "id categoria": 431,
+    "Categoría": "Organizaciones gremiales"
+  },
+  {
+    "id categoria": 494,
+    "Categoría": "Para hacer frente a emergencias y catástrofes"
+  },
+  {
+    "id categoria": 114,
+    "Categoría": "Plebiscitos, referendos y consultas"
+  },
+  {
+    "id categoria": 115,
+    "Categoría": "Poder judicial (estructura y funciones)"
+  },
+  {
+    "id categoria": 434,
+    "Categoría": "Policía de investigaciones"
+  },
+  {
+    "id categoria": 116,
+    "Categoría": "Presidencia de la República"
+  },
+  {
+    "id categoria": 489,
+    "Categoría": "Públicas descentralizadas"
+  },
+  {
+    "id categoria": 117,
+    "Categoría": "Régimen de gobierno presidencial/semi-presidencial/parlamentario"
+  },
+  {
+    "id categoria": 438,
+    "Categoría": "Servicio de Impuestos Internos"
+  },
+  {
+    "id categoria": 439,
+    "Categoría": "Superintendencia de fondos de pensiones"
+  },
+  {
+    "id categoria": 440,
+    "Categoría": "Superintendencia de salud"
+  },
+  {
+    "id categoria": 441,
+    "Categoría": "Tesorería general de la república"
+  },
+  {
+    "id categoria": 442,
+    "Categoría": "Toda institución pública"
+  },
+  {
+    "id categoria": 445,
+    "Categoría": "Tribunal constitucional: reforma"
+  },
+  {
+    "id categoria": 447,
+    "Categoría": "Tribunal de Defensa de la Libre Competencia"
+  },
+  {
+    "id categoria": 497,
+    "Categoría": "Vivienda"
+  }
+]

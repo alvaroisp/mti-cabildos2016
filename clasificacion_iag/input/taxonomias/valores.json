@@ -1,0 +1,266 @@
+[
+  {
+    "id categoria": 1,
+    "Categoría": "Amistad cívica"
+  },
+  {
+    "id categoria": 122,
+    "Categoría": "Autodeterminación"
+  },
+  {
+    "id categoria": 2,
+    "Categoría": "Autonomía/libertad"
+  },
+  {
+    "id categoria": 3,
+    "Categoría": "Bien común/Comunidad"
+  },
+  {
+    "id categoria": 502,
+    "Categoría": "Calidad de vida (buen vivir)"
+  },
+  {
+    "id categoria": 4,
+    "Categoría": "Ciudadanía"
+  },
+  {
+    "id categoria": 500,
+    "Categoría": "Cohesión social (equidad)"
+  },
+  {
+    "id categoria": 462,
+    "Categoría": "De la persona"
+  },
+  {
+    "id categoria": 469,
+    "Categoría": "De lo local (territorio)"
+  },
+  {
+    "id categoria": 473,
+    "Categoría": "De los pueblos originarios"
+  },
+  {
+    "id categoria": 470,
+    "Categoría": "Del medioambiente y recursos naturales"
+  },
+  {
+    "id categoria": 5,
+    "Categoría": "Democracia"
+  },
+  {
+    "id categoria": 6,
+    "Categoría": "Desarrollo"
+  },
+  {
+    "id categoria": 7,
+    "Categoría": "Descentralización"
+  },
+  {
+    "id categoria": 8,
+    "Categoría": "Dignidad"
+  },
+  {
+    "id categoria": 9,
+    "Categoría": "Diversidad"
+  },
+  {
+    "id categoria": 142,
+    "Categoría": "Educación"
+  },
+  {
+    "id categoria": 10,
+    "Categoría": "Emprendimiento libre"
+  },
+  {
+    "id categoria": 11,
+    "Categoría": "Equidad de género"
+  },
+  {
+    "id categoria": 153,
+    "Categoría": "Estado confesional"
+  },
+  {
+    "id categoria": 12,
+    "Categoría": "Estado de Derecho"
+  },
+  {
+    "id categoria": 13,
+    "Categoría": "Estado laico"
+  },
+  {
+    "id categoria": 155,
+    "Categoría": "Estado promotor"
+  },
+  {
+    "id categoria": 156,
+    "Categoría": "Estado social de derechos"
+  },
+  {
+    "id categoria": 157,
+    "Categoría": "Etica"
+  },
+  {
+    "id categoria": 158,
+    "Categoría": "Familia"
+  },
+  {
+    "id categoria": 160,
+    "Categoría": "Fraternidad"
+  },
+  {
+    "id categoria": 161,
+    "Categoría": "Honestidad"
+  },
+  {
+    "id categoria": 14,
+    "Categoría": "Identidad cultural"
+  },
+  {
+    "id categoria": 15,
+    "Categoría": "Igualdad"
+  },
+  {
+    "id categoria": 464,
+    "Categoría": "Igualdad de oportunidades"
+  },
+  {
+    "id categoria": 16,
+    "Categoría": "Inclusión"
+  },
+  {
+    "id categoria": 504,
+    "Categoría": "Información y conectividad"
+  },
+  {
+    "id categoria": 17,
+    "Categoría": "Innovación/creatividad"
+  },
+  {
+    "id categoria": 18,
+    "Categoría": "Integración"
+  },
+  {
+    "id categoria": 19,
+    "Categoría": "Justicia"
+  },
+  {
+    "id categoria": 467,
+    "Categoría": "Libertad"
+  },
+  {
+    "id categoria": 468,
+    "Categoría": "Libertad de culto"
+  },
+  {
+    "id categoria": 20,
+    "Categoría": "Multiculturalidad"
+  },
+  {
+    "id categoria": 21,
+    "Categoría": "Participación"
+  },
+  {
+    "id categoria": 501,
+    "Categoría": "Participación democrática vinculante"
+  },
+  {
+    "id categoria": 22,
+    "Categoría": "Patriotismo"
+  },
+  {
+    "id categoria": 23,
+    "Categoría": "Paz/convivencia pacífica"
+  },
+  {
+    "id categoria": 24,
+    "Categoría": "Pluralismo"
+  },
+  {
+    "id categoria": 25,
+    "Categoría": "Plurinacionalismo"
+  },
+  {
+    "id categoria": 26,
+    "Categoría": "Probidad"
+  },
+  {
+    "id categoria": 472,
+    "Categoría": "Propiedad"
+  },
+  {
+    "id categoria": 27,
+    "Categoría": "República"
+  },
+  {
+    "id categoria": 28,
+    "Categoría": "Respeto"
+  },
+  {
+    "id categoria": 475,
+    "Categoría": "Respeto a las normas"
+  },
+  {
+    "id categoria": 186,
+    "Categoría": "Respeto derechos humanos"
+  },
+  {
+    "id categoria": 187,
+    "Categoría": "Respeto hacia los animales"
+  },
+  {
+    "id categoria": 188,
+    "Categoría": "Respeto/conservación de la naturaleza o medio ambiente"
+  },
+  {
+    "id categoria": 30,
+    "Categoría": "Responsabilidad"
+  },
+  {
+    "id categoria": 190,
+    "Categoría": "Salud"
+  },
+  {
+    "id categoria": 31,
+    "Categoría": "Seguridad"
+  },
+  {
+    "id categoria": 503,
+    "Categoría": "Servicios y espacios públicos de calidad"
+  },
+  {
+    "id categoria": 33,
+    "Categoría": "Soberanía"
+  },
+  {
+    "id categoria": 34,
+    "Categoría": "Solidaridad"
+  },
+  {
+    "id categoria": 35,
+    "Categoría": "Subsidiaridad"
+  },
+  {
+    "id categoria": 196,
+    "Categoría": "Sustentabilidad"
+  },
+  {
+    "id categoria": 36,
+    "Categoría": "Tolerancia"
+  },
+  {
+    "id categoria": 37,
+    "Categoría": "Transparencia y publicidad"
+  },
+  {
+    "id categoria": 38,
+    "Categoría": "Unidad"
+  },
+  {
+    "id categoria": 200,
+    "Categoría": "Valores cristianos"
+  },
+  {
+    "id categoria": 201,
+    "Categoría": "Vida"
+  }
+]

@@ -1,0 +1,27 @@
+# Clasificación IAG
+openai>=1.0.0
+tqdm>=4.0.0
+
+# Análisis de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+
+# Base de datos
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Archivos Excel
+openpyxl>=3.1.0
+
+# Notebook Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Análisis estadístico (Kappa de Fleiss)
+scipy>=1.10.0
+
+# Variables de entorno
+python-dotenv>=1.0.0

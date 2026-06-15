@@ -48,11 +48,15 @@ mti-cabildos2016/
 │
 ├── notebook/
 │   ├── analisis_clasificacion_constitucional.ipynb  # Notebook con análisis completo
-│   ├── figura_6_valores.png       # Frecuencias comparadas ML vs IAG — Valores y Principios
-│   ├── figura_7_derechos.png      # Frecuencias comparadas ML vs IAG — Derechos
-│   ├── figura_8_deberes.png       # Frecuencias comparadas ML vs IAG — Deberes y Responsabilidades
-│   ├── figura_9_instituciones.png # Frecuencias comparadas ML vs IAG — Instituciones del Estado
-│   └── README.md                  # Descripción del notebook y requisitos
+│   ├── figura_6_valores.png        # Frecuencias comparadas ML vs IAG — Valores y Principios
+│   ├── figura_7_derechos.png       # Frecuencias comparadas ML vs IAG — Derechos
+│   ├── figura_8_deberes.png        # Frecuencias comparadas ML vs IAG — Deberes y Responsabilidades
+│   ├── figura_9_instituciones.png  # Frecuencias comparadas ML vs IAG — Instituciones del Estado
+│   ├── figura_10_otros_valores.png        # Concentración de "otros" — Valores y Principios
+│   ├── figura_11_otros_derechos.png       # Concentración de "otros" — Derechos
+│   ├── figura_12_otros_deberes.png        # Concentración de "otros" — Deberes y Responsabilidades
+│   ├── figura_13_otros_instituciones.png  # Concentración de "otros" — Instituciones del Estado
+│   └── README.md                   # Descripción del notebook y requisitos
 │
 └── README.md                      # Este archivo
 ```
@@ -135,8 +139,12 @@ El notebook `notebook/analisis_clasificacion_constitucional.ipynb` documenta y r
 | `figura_7_derechos.png` | Frecuencias comparadas ML vs IAG — Derechos |
 | `figura_8_deberes.png` | Frecuencias comparadas ML vs IAG — Deberes y Responsabilidades |
 | `figura_9_instituciones.png` | Frecuencias comparadas ML vs IAG — Instituciones del Estado |
+| `figura_10_otros_valores.png` | Concentración de respuestas "otros" — Valores y Principios |
+| `figura_11_otros_derechos.png` | Concentración de respuestas "otros" — Derechos |
+| `figura_12_otros_deberes.png` | Concentración de respuestas "otros" — Deberes y Responsabilidades |
+| `figura_13_otros_instituciones.png` | Concentración de respuestas "otros" — Instituciones del Estado |
 
-Cada gráfico muestra las 25 categorías más frecuentes por método, con etiquetas de frecuencia y en orden descendente. La comparación entre ambos paneles permite identificar visualmente la estabilidad del núcleo temático dominante y las diferencias en categorías emergentes.
+Los gráficos de frecuencia comparada (figuras 6 a 9) muestran las 25 categorías más frecuentes por método, con etiquetas de frecuencia y en orden descendente. Los gráficos de concentración (figuras 10 a 13) destacan la categoría "otros" en naranja frente a las categorías predefinidas en azul, evidenciando la motivación del proceso de clasificación automática.
 
 ### Requisitos para ejecutar
 

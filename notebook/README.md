@@ -11,13 +11,15 @@ Este notebook documenta y reproduce los cálculos, indicadores y gráficos inclu
 | Sección | Descripción |
 |---------|-------------|
 | 0. Configuración | Conexión a base de datos PostgreSQL mediante SQLAlchemy |
-| 1. Proceso ML | Totales del corpus, clasificación manual por metacategoría y resultados de asignación |
-| 2. Proceso IAG | Cobertura de clasificación y distribución de categorías originales vs emergentes |
-| 3. Comparativo ML vs IAG | Cálculo de coincidencia exacta entre ambos métodos |
-| 4. Diversidad distributiva | Índices de Shannon, número efectivo de categorías e índice de Simpson |
-| 5. Concentración temática | Categorías necesarias para explicar el 80% de la frecuencia por taxonomía |
-| 6. Gráficos comparados | Frecuencias ML vs IAG por metacategoría (Figuras 6 a 9) |
-| 7. Evaluación experta | Kappa de Cohen por par, Kappa de Fleiss y distribución por mayoría simple |
+| 1. Concentración de respuestas "otros" | Distribución de frecuencias por metacategoría antes de clasificación automática, destacando la predominancia de "otros" |
+| 2. Proceso ML (2020) | Totales del corpus, clasificación manual por metacategoría y resultados de asignación |
+| 3. Tiempos de ejecución IAG (2025) | Estadísticas descriptivas de los tiempos de procesamiento por registro durante la clasificación con IAG |
+| 4. Proceso IAG (2025) | Cobertura de clasificación y distribución de categorías originales vs emergentes |
+| 5. Comparativo ML vs IAG | Cálculo de coincidencia exacta entre ambos métodos |
+| 6. Diversidad distributiva | Índices de Shannon, número efectivo de categorías e índice de Simpson |
+| 7. Concentración temática | Categorías necesarias para explicar el 80% de la frecuencia por taxonomía |
+| 8. Gráficos comparados ML vs IAG | Frecuencias ML vs IAG por metacategoría (Figuras 6 a 9) |
+| 9. Evaluación experta | Kappa de Cohen por par, Kappa de Fleiss y distribución por mayoría simple |
 
 ---
 
@@ -29,8 +31,12 @@ Este notebook documenta y reproduce los cálculos, indicadores y gráficos inclu
 | `figura_7_derechos.png` | Frecuencias comparadas ML vs IAG — Derechos |
 | `figura_8_deberes.png` | Frecuencias comparadas ML vs IAG — Deberes y Responsabilidades |
 | `figura_9_instituciones.png` | Frecuencias comparadas ML vs IAG — Instituciones del Estado |
+| `figura_10_otros_valores.png` | Concentración de respuestas "otros" — Valores y Principios |
+| `figura_11_otros_derechos.png` | Concentración de respuestas "otros" — Derechos |
+| `figura_12_otros_deberes.png` | Concentración de respuestas "otros" — Deberes y Responsabilidades |
+| `figura_13_otros_instituciones.png` | Concentración de respuestas "otros" — Instituciones del Estado |
 
-Cada gráfico muestra las 25 categorías más frecuentes por método, con etiquetas de frecuencia y en orden descendente. La comparación entre ambos paneles permite identificar visualmente la estabilidad del núcleo temático dominante y las diferencias en categorías emergentes.
+Los gráficos de frecuencia comparada (figuras 6 a 9) muestran las 25 categorías más frecuentes por método, con etiquetas de frecuencia y en orden descendente. Los gráficos de concentración (figuras 10 a 13) destacan la categoría "otros" en naranja frente a las categorías predefinidas en azul.
 
 ---
 

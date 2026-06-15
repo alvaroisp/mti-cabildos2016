@@ -90,17 +90,7 @@ El proceso clasificó el 99,36% de las 36.322 respuestas "otros" de las instanci
 
 ## Evaluación experta
 
-Se seleccionó una muestra aleatoria de 200 casos donde ML e IAG asignaron categorías distintas. Tres expertos de distintas disciplinas evaluaron cada caso de manera independiente según la siguiente escala:
-
-| Código | Significado |
-|--------|-------------|
-| 1 | ML mejor |
-| 2 | IAG mejor |
-| 3 | Equivalentes |
-| 4 | Ambas incorrectas |
-| 9 | No evaluable |
-
-Ver [`evaluacion_experta/README.md`](evaluacion_experta/README.md) para el instrumento completo y los resultados.
+Se seleccionó una muestra aleatoria de 200 casos donde ML e IAG asignaron categorías distintas. Tres expertos de distintas disciplinas evaluaron cada caso de manera independiente. Ver [`evaluacion_experta/README.md`](evaluacion_experta/README.md) para el instrumento completo, la escala de evaluación y los resultados.
 
 ---
 
@@ -116,39 +106,7 @@ Ver [`evaluacion_experta/README.md`](evaluacion_experta/README.md) para el instr
 
 ## Notebook de análisis
 
-El notebook `notebook/analisis_clasificacion_constitucional.ipynb` documenta y reproduce los cálculos, indicadores y gráficos incluidos en el informe final. Está publicado con todos los outputs ejecutados, por lo que es legible directamente en GitHub sin necesidad de instalación.
-
-### Contenido
-
-| Sección | Descripción |
-|---------|-------------|
-| 0. Configuración | Conexión a base de datos PostgreSQL mediante SQLAlchemy |
-| 1. Proceso ML | Totales del corpus, clasificación manual por metacategoría y resultados de asignación |
-| 2. Proceso IAG | Cobertura de clasificación y distribución de categorías originales vs emergentes |
-| 3. Comparativo ML vs IAG | Cálculo de coincidencia exacta entre ambos métodos |
-| 4. Diversidad distributiva | Índices de Shannon, número efectivo de categorías e índice de Simpson |
-| 5. Concentración temática | Categorías necesarias para explicar el 80% de la frecuencia por taxonomía |
-| 6. Gráficos comparados | Frecuencias ML vs IAG por metacategoría (Figuras 6 a 9) |
-| 7. Evaluación experta | Kappa de Cohen por par, Kappa de Fleiss y distribución por mayoría simple |
-
-### Gráficos incluidos
-
-| Archivo | Descripción |
-|---------|-------------|
-| `figura_6_valores.png` | Frecuencias comparadas ML vs IAG — Valores y Principios |
-| `figura_7_derechos.png` | Frecuencias comparadas ML vs IAG — Derechos |
-| `figura_8_deberes.png` | Frecuencias comparadas ML vs IAG — Deberes y Responsabilidades |
-| `figura_9_instituciones.png` | Frecuencias comparadas ML vs IAG — Instituciones del Estado |
-| `figura_10_otros_valores.png` | Concentración de respuestas "otros" — Valores y Principios |
-| `figura_11_otros_derechos.png` | Concentración de respuestas "otros" — Derechos |
-| `figura_12_otros_deberes.png` | Concentración de respuestas "otros" — Deberes y Responsabilidades |
-| `figura_13_otros_instituciones.png` | Concentración de respuestas "otros" — Instituciones del Estado |
-
-Los gráficos de frecuencia comparada (figuras 6 a 9) muestran las 25 categorías más frecuentes por método, con etiquetas de frecuencia y en orden descendente. Los gráficos de concentración (figuras 10 a 13) destacan la categoría "otros" en naranja frente a las categorías predefinidas en azul, evidenciando la motivación del proceso de clasificación automática.
-
-### Requisitos para ejecutar
-
-La conexión a la base de datos PostgreSQL requiere definir la variable `DB_PASSWORD` en un archivo `.env` en la raíz del proyecto (ver `requirements.txt`). Los datos de entrada provienen de la base de datos local de la BCN y no están incluidos en el repositorio.
+El notebook `notebook/analisis_clasificacion_constitucional.ipynb` documenta y reproduce los cálculos, indicadores y gráficos incluidos en el informe final. Está publicado con todos los outputs ejecutados, por lo que es legible directamente en GitHub sin necesidad de instalación. Ver [`notebook/README.md`](notebook/README.md) para el detalle de contenidos, gráficos y requisitos de ejecución.
 
 ---
 
